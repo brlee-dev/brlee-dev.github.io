@@ -5,10 +5,10 @@ plugins:
 exclude:
   - /vendor/
 title: brlee-dev
-subtitle: A simple yet classy theme for your Jekyll website or blog
+subtitle: 왕십리 여드름 대마왕 김성훈
 email: succeed9157@gmail.com
 name: brlee-dev
-description: 왕십리 여드름 대마왕 김성훈
+description: 여드름 조심
 baseurl: ''
 url: ''
 cover: /assets/header_image.jpg
