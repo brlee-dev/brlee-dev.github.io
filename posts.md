@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Posts"
-permalink: /posts/
+title: Posts
+layout: post
+permalink: "/posts/"
 main_nav: true
 ---
 
