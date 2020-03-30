@@ -1,7 +1,6 @@
 ---
-title: ttttt
+title: Linux
 layout: post
 permalink: "/linux/"
 ---
 
-jeiwqjrqiweji
